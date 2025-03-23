@@ -6,10 +6,6 @@ package latihanKu;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ASUS
- */
 public class main1 {
     public static void main(String[] args) {
         
